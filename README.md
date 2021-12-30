@@ -1,7 +1,7 @@
 ## BrainhackNYC2021
 ----
 
-**Tutorial**
+**Statistics Tutorial**
 
 [part1](https://github.com/TingsterX/BrainhackNYC2021/blob/main/tutorial-part1.pdf)
 
